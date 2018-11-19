@@ -35,6 +35,6 @@ public class FrogSimulation {
             }
             num--;
         }
-        return (double) success / (double) total;
+        return (double) success / total;
     }
 }
